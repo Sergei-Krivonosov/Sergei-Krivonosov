@@ -1,16 +1,13 @@
 [![Header](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/assets/Снимок%20экрана%202023-10-01%20в%2020.30.41.png)]()
 
-## Привет. Я QA Engineer, который сделает ваши web и мобильные приложения, отвечающие всем требованиям качества и удобными в использовании. 
+## Привет. <br> Я QA Engineer, который сделает ваши web и мобильные приложения, отвечающие всем требованиям качества и удобными в использовании. 
 
 ## Мои навыки
 
 ![GitHub](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github)
 ![jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
-![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=blue)
-![zephyr](https://img.shields.io/badge/-zephyr-090909?style=for-the-badge&logo=atlassian&logoColor=blue)
 ![postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 ![charles](https://img.shields.io/badge/-charles-090909?style=for-the-badge&logo=)
-![c#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C)
 ![devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=grey)
 ![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
@@ -21,19 +18,25 @@
 
 ## Опыт работы
 
-### QA инженер - Martspec LLC (Начало работы: март 2023)
+### QA инженер - Martspec LLC (Начало работы: сентябрь 2023)
 
 <br>
 
-- Разработка и выполнение чек листов и тест кейсов
-- Создание баг репортов по найденным дефектам
-- Взаимодействие с разработчиками для улучшения качества продукта
-<!-- - Создание и поддержка автоматизированных тестов -->
+- Тестирование мобильных приложений для iOS, интегрированных в приложение Apple Health
+- Заведение баг репортов в Jira и Trello
+- Взаимодействие с командой разработчиков
+
 <br>
+
+### QA инженер - Spirit DSP (Начало работы: июнь 2023)
+
+- Тестирование web, десктопного и мобильного приложений для видеконференций - VideoMost
+- Обнаружение и документирование багов в YouTrack
+- Создание тестовой документации
 
 ## Образование
 
-- [GeekBrains](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестировщик (ноябрь 2022 - апрель 2023)
+- [Skillbox](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестировщик (ноябрь 2022 - апрель 2023)
 - [Stepik](https://stepik.org/cert/1935118) - Вселенная тестирования или как стать тестировщиком
 - [Stepik](https://stepik.org/cert/1939167) - Тестирование ПО: Postman для тестирования API
 
