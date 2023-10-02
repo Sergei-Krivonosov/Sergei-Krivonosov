@@ -40,14 +40,8 @@
 
 ## Образование
 
-- [Skillbox]() - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
-- [Skillbox]() - Ручное тестирование мобильных приложений (июль 2023 - сентябрь 2023)
-
-- [Stepik](https://stepik.org/cert/1935118) - Вселенная тестирования или как стать тестировщиком
-- [Stepik](https://stepik.org/cert/1939167) - Тестирование ПО: Postman для тестирования API
-
-- [СКФУ](https://github.com/Mixarder/Mixarder/blob/main/assets/skfu.png) - Юридический факультет (2001-2006)
-- [Центр Компьютерных технологий]() - Мастер по ремонту ПК (2000)
+- [Skillbox](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/skillbox%20web/Сертификат%20web.png) - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
+- [Skillbox](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/skillbox%20mobile/Сертификат%20mobil.png) - Ручное тестирование мобильных приложений (июль 2023 - сентябрь 2023)
 
 <br>
 
