@@ -18,7 +18,7 @@
 
 ## Опыт работы
 
-### QA инженер - Martspec LLC (Начало работы: сентябрь 2023)
+### QA Engineer - Martspec LLC (Начало работы: сентябрь 2023)
 
 <br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-### QA инженер - Spirit DSP (Начало работы: июнь 2023)
+### QA Engineer - Spirit DSP (Начало работы: июнь 2023)
 
 - Тестирование web, десктопного и мобильного приложений для видеконференций - VideoMost
 - Обнаружение и документирование багов в YouTrack
@@ -43,8 +43,10 @@
 
 ## HTML CSS
 
-[Code] ()
-[Website] ()
+- Прошел обучение веб-верстке для понимания структуры веб-сайтов и приложений, а также работе с таким инструментом как DevTools, для поиска и локализации ошибок.
+
+[Code] (https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/tree/main/Code) <br>
+[Website] (https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/Website/index.html)
 
 <!--# Моя роль в компании
 
