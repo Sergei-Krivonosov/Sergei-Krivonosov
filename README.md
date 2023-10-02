@@ -40,8 +40,8 @@
 
 ## Образование
 
-- [Skillbox](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
-- [Skillbox](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
+- [Skillbox]() - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
+- [Skillbox]() - Ручное тестирование мобильных приложений (июль 2023 - сентябрь 2023)
 
 - [Stepik](https://stepik.org/cert/1935118) - Вселенная тестирования или как стать тестировщиком
 - [Stepik](https://stepik.org/cert/1939167) - Тестирование ПО: Postman для тестирования API
