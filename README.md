@@ -43,9 +43,9 @@
 - [Skillbox](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/skillbox%20web/Сертификат%20web.png) - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
 - [Skillbox](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/skillbox%20mobile/Сертификат%20mobil.png) - Ручное тестирование мобильных приложений (июль 2023 - сентябрь 2023)
 
-# Моя роль в компании
+<!--# Моя роль в компании
 
-[Тут](https://www.linkedin.com/posts/martspec_it-sturtup-sturtups-activity-7104478234242691072-rezh/?utm_source=share&utm_medium=member_ios), руководитель упоминает меня и мою помощь компании.
+[Тут](https://www.linkedin.com/posts/martspec_it-sturtup-sturtups-activity-7104478234242691072-rezh/?utm_source=share&utm_medium=member_ios), руководитель упоминает меня и мою помощь компании.-->
 
 
 ## Связаться со мной
@@ -58,7 +58,8 @@
 <br>
 <br>
 
-
+<!--
 <p align="center">
 <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/fun.png" alt="Fun_pic">
 </p>
+-->
