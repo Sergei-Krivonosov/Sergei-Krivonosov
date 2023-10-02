@@ -1,9 +1,7 @@
 [![Header](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/assets/Снимок%20экрана%202023-10-01%20в%2020.30.41.png)]()
 
-## Привет. 
+## Привет. Я QA Engineer, который сделает ваши web и мобильные приложения, отвечающие всем требованиям качества и удобными в использовании. 
 <br> 
-
-Я QA Engineer, который сделает ваши web и мобильные приложения, отвечающие всем требованиям качества и удобными в использовании. 
 
 ## Мои навыки
 
@@ -42,6 +40,11 @@
 
 - [Skillbox](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/skillbox%20web/Сертификат%20web.png) - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
 - [Skillbox](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/skillbox%20mobile/Сертификат%20mobil.png) - Ручное тестирование мобильных приложений (июль 2023 - сентябрь 2023)
+
+## HTML CSS
+
+[Code] ()
+[Website] ()
 
 <!--# Моя роль в компании
 
