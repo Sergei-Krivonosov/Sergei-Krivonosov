@@ -45,8 +45,8 @@
 
 - Прошел обучение веб-верстке для понимания структуры веб-сайтов и приложений, а также работе с таким инструментом как DevTools, для поиска и локализации ошибок.
 
-[Code] (https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/tree/main/Code) <br>
-[Website] (https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/Website/index.html)
+[Code](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/tree/main/Code) <br>
+[Website](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/Website/index.html)
 
 <!--# Моя роль в компании
 
