@@ -1,6 +1,9 @@
 [![Header](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/assets/Снимок%20экрана%202023-10-01%20в%2020.30.41.png)]()
 
-## Привет. <br> Я QA Engineer, который сделает ваши web и мобильные приложения, отвечающие всем требованиям качества и удобными в использовании. 
+## Привет. 
+<br> 
+
+Я QA Engineer, который сделает ваши web и мобильные приложения, отвечающие всем требованиям качества и удобными в использовании. 
 
 ## Мои навыки
 
@@ -13,7 +16,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![VSC](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=visualStudioCode&logoColor=blue)
 
-
 <br>
 
 ## Опыт работы
@@ -25,6 +27,7 @@
 - Тестирование мобильных приложений для iOS, интегрированных в приложение Apple Health
 - Заведение баг репортов в Jira и Trello
 - Взаимодействие с командой разработчиков
+- Создание тестовой документации
 
 <br>
 
@@ -33,10 +36,13 @@
 - Тестирование web, десктопного и мобильного приложений для видеконференций - VideoMost
 - Обнаружение и документирование багов в YouTrack
 - Создание тестовой документации
+- Взаимодействие с командой тестировщиков
 
 ## Образование
 
-- [Skillbox](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестировщик (ноябрь 2022 - апрель 2023)
+- [Skillbox](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
+- [Skillbox](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
+
 - [Stepik](https://stepik.org/cert/1935118) - Вселенная тестирования или как стать тестировщиком
 - [Stepik](https://stepik.org/cert/1939167) - Тестирование ПО: Postman для тестирования API
 
