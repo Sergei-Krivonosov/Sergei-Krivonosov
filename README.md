@@ -1,6 +1,7 @@
 [![Header](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/assets/Снимок%20экрана%202023-10-02%20в%2021.33.03.png)]()
 
 ## Привет. Я QA Engineer, который сделает ваши web и мобильные приложения, отвечающие всем требованиям качества и удобными в использовании. 
+
 <br> 
 
 ## Мои навыки
@@ -46,7 +47,7 @@
 - Прошел обучение веб-верстке для понимания структуры веб-сайтов и приложений, а также работе с таким инструментом как DevTools, для поиска и локализации ошибок.
 
 [Code](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/tree/main/Code) <br>
-[Website](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/Website/index.html)
+[Website](https://sergei-krivonosov.github.io/my-project/)
 
 <!--# Моя роль в компании
 
