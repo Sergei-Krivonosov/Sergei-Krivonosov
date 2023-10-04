@@ -1,4 +1,4 @@
-[![Header](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/assets/Снимок%20экрана%202023-10-02%20в%2021.33.03.png)]()
+[![Header](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/assets/Снимок%20экрана%202023-10-04%20в%2015.52.11.png)]()
 
 ## Привет. Я QA Engineer, который сделает ваши web и мобильные приложения, отвечающие всем требованиям качества и удобными в использовании. 
 
