@@ -30,18 +30,19 @@
 
 <br>
 
-### QA Engineer - Spirit DSP (Начало работы: июнь 2023)
+### QA Engineer - Spirit Corp (Период работы: июнь-октябрь 2023 )
 
 - Тестирование web, десктопного и мобильного приложений для видеконференций - VideoMost
 - Обнаружение и документирование багов в YouTrack
 - Создание тестовой документации
 - Взаимодействие с командой тестировщиков
+[Рекомендательное письмо]()
 
 ## Образование
 
 - [Skillbox](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/skillbox%20web/Сертификат%20web.png) - Тестирование web-приложений (ноябрь 2022 - июнь 2023)
 - [Skillbox](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/skillbox%20mobile/Сертификат%20mobil.png) - Ручное тестирование мобильных приложений (июль 2023 - сентябрь 2023)
-- [Higher education](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/diplom/diplom.pdf) - Специальность "Юриспруденция" (сентябрь 1999 - июль 2003)
+- [Высшее образование](https://github.com/Sergei-Krivonosov/Sergei-Krivonosov/blob/main/diplom/diplom.pdf) - Специальность "Юриспруденция" (сентябрь 1999 - июль 2003)
 
 ## HTML CSS
 
